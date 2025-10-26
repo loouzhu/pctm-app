@@ -1,10 +1,9 @@
 import React, { Component } from 'react'
 
-export default class App extends Component {
+export default class regist extends Component {
   render() {
     return (
-      <div>App</div>
+      <div>regist</div>
     )
   }
 }
-
